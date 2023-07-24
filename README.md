@@ -1,4 +1,4 @@
-# trojan
+# Trojan
 Trojan Malware in Python
 
 ## Here's a breakdown of the code:
